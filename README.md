@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmed Osama
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://delesign.com/free-designs/graphics/illustration/slack-slack-com)
+![I am GitHub Readme Generator's creator](https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/slack-slack-com.png)
 
 I'm a software developer who is passionate and looking forward to learn new technologies.
 
