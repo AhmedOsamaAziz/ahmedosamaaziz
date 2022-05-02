@@ -20,7 +20,6 @@ I'm a software developer who is passionate and looking forward to learn new tech
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/icons8-github-48.png' alt='github' height='40'>](https://github.com/ahmedosamaaziz)
-
-[<img src='https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/icons8-linkedin---in-logo-used-for-professional-networking%2C-24.png' alt='linkedin' height='40'>](https://github.com/AhmedOsamaAziz)
+[<img src='https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/icons8-github-48.png' alt='github' height='25'>](https://github.com/ahmedosamaaziz)
+[<img src='https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/icons8-linkedin---in-logo-used-for-professional-networking%2C-24.png' alt='linkedin' height='25'>](https://github.com/AhmedOsamaAziz)
 
