@@ -20,5 +20,5 @@ I'm a software developer who is passionate and looking forward to learn new tech
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedosamaaziz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmedosamaaziz/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedosamaaziz)  [<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/ahmedosamaaziz/)  
 
