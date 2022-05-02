@@ -1,11 +1,21 @@
 ![I am GitHub Readme Generator's creator](https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/slack-slack-com.png)
 
-### Hi there 👋, Ahmed Osama
-#### I am GitHub Readme Generator's creator
+# Ahmed Osama
 
 I'm a software developer who is passionate and looking forward to learn new technologies.
 
-Skills: JS / HTML / CSS / C# / C++ / C / java / asp.net / Flutter / python / Django
+## Skills:
+* HTML
+* CSS
+* JS
+* Python
+* Django
+* Flutter
+* C#
+* ASP.NET
+* C
+* C++
+* JAVA
 
 - 🔭 I’m currently working on this page. 
 
