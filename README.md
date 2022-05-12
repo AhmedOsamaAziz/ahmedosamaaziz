@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/AhmedOsamaAziz/ahmedosamaaziz/blob/main/slack-slack-com.png)
+![I am GitHub Readme Generator's creator](https://miro.medium.com/max/1200/1*nSVke1bscf1XSN5GtFwZ4Q.png)
 
 # Ahmed Osama
 
